@@ -15,7 +15,7 @@ Library           RPA.Robocorp.Vault
 Library           RPA.Dialogs
 
 *** Variables ***
-${RANGE}=         5
+${RANGE}=         6
 
 *** Keywords ***
 Open the robot order website
